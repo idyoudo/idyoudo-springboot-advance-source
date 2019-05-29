@@ -10,7 +10,7 @@ import java.io.IOException;
 public class ContainerWebController {
 
     @RequestMapping(name="/container", method= {RequestMethod.POST,RequestMethod.GET})
-    public String readProperties() throws IOException {
+    public String container() throws IOException {
 
         return "i am springboot web container,default embedded tomcat.";
     }

@@ -14,6 +14,8 @@
     <modules>
         <module>idyoudo-springboot-advance-container-web</module>
         <module>idyoudo-springboot-advance-container-wdeploy</module>
+        <module>idyoudo-springboot-advance-container-jetty</module>
+        <module>idyoudo-springboot-advance-container-undertow</module>
     </modules>
 
 
