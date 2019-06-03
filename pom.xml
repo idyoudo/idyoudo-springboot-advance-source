@@ -13,6 +13,7 @@
         <module>idyoudo-springboot-advance-event</module>
         <module>idyoudo-springboot-advance-initializer</module>
         <module>web</module>
+        <module>conditional</module>
     </modules>
 
     <properties>
