@@ -15,6 +15,7 @@
         <module>idyoudo-springboot-advance-conditional</module>
         <module>idyoudo-springboot-advance-profile</module>
         <module>idyoudo-springboot-advance-springbootcondition</module>
+        <module>idyoudo-springboot-advance-ioc</module>
     </modules>
 
 
