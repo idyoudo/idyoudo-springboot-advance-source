@@ -1,4 +1,4 @@
-package com.idyoudo.springboot.advance.conditionalonbean;
+package com.idyoudo.springboot.advance.conditionalonbean.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
