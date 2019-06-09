@@ -18,6 +18,7 @@
         <module>idyoudo-springboot-advance-ioc</module>
         <module>com-idyoudo-springboot-advance-phase</module>
         <module>idyoudo-springboot-advance-conditionalonbean</module>
+        <module>idyoudo-springboot-advance-conditionalonclass</module>
     </modules>
 
 
