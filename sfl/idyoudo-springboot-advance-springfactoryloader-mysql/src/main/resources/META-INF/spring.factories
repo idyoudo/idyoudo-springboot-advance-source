@@ -1,0 +1,3 @@
+com.idyoudo.advance.sfl.driver.Driver=\
+com.idyoudo.advance.sfl.driver.mysql.MysqlDriver,\
+com.idyoudo.advance.sfl.driver.mysql.DeprecatedMysqlDriver

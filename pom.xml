@@ -14,6 +14,7 @@
         <module>idyoudo-springboot-advance-initializer</module>
         <module>web</module>
         <module>conditional</module>
+        <module>sfl</module>
     </modules>
 
     <properties>
