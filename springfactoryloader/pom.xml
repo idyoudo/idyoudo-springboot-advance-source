@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>sfl</artifactId>
+    <artifactId>springfactoryloader</artifactId>
     <packaging>pom</packaging>
     <modules>
         <module>idyoudo-springboot-advance-springfactoryloader-driver</module>
