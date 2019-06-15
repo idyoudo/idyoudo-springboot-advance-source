@@ -16,6 +16,7 @@
         <module>conditional</module>
         <module>springfactoryloader</module>
         <module>logger</module>
+        <module>source</module>
     </modules>
 
     <properties>
