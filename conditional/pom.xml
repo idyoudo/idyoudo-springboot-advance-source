@@ -19,6 +19,8 @@
         <module>com-idyoudo-springboot-advance-phase</module>
         <module>idyoudo-springboot-advance-conditionalonbean</module>
         <module>idyoudo-springboot-advance-conditionalonclass</module>
+        <module>idyoudo-springboot-advance-conditionalonproperty</module>
+        <module>idyoudo-springboot-advance-onlyspringboot</module>
     </modules>
 
 
