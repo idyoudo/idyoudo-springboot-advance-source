@@ -17,6 +17,7 @@
         <module>springfactoryloader</module>
         <module>logger</module>
         <module>source</module>
+        <module>configfile</module>
     </modules>
 
     <properties>
